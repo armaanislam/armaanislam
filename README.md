@@ -29,7 +29,7 @@
 </a>
 <a href="https://codeforces.com/profile/Arman_Islam" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="armaanislam" height="40" width="40"/>
 </a>
-<a href="https://www.codechef.com/practice?page=0&limit=20&sort_by=difficulty_rating&sort_order=asc&search=&start_rating=0&end_rating=999&topic=&tags=&group=unattempted" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="armaanislam" height="40" width="40" />
+<a href="https://www.codechef.com/practice?page=0&limit=20&sort_by=difficulty_rating&sort_order=asc&search=&start_rating=0&end_rating=999&topic=&tags=&group=unattempted" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="armaanislam" height="50" width="50" />
 </a> 
 </p>
   
