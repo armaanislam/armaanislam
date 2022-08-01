@@ -55,8 +55,6 @@
 </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="redux" width="40" height="40"/> 
 </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" alt="nodejs" width="40" height="40"/> 
-</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
@@ -68,9 +66,9 @@
 - Frontend Development using **ReactJS**
 - Backend Development using **Django**, **Django REST**
 - Relational Database Management System using **SQLite**, **MySQL**
-- Solving Data Structure and Algorithm problems in **Java**, **Python**
+- Solving Data Structure and Algorithm problems in **Java**
 - Version Control System: **Git** 
-- Operating System: **Linux(Ubuntu)**, **Windows**
+- Operating System: **Linux (Ubuntu)**, **Windows**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armaanislam&show_icons=true&locale=en&theme=default" alt="armaanislam" />
 </p>
